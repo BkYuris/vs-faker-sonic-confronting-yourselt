@@ -46,6 +46,11 @@ class CreditsState extends MusicBeatState
 		add(grpOptions);
 
 		var pisspoop = [ //Name - Icon name - Description - Link - BG Color
+		    ['Vs Sonic EXE Faker Android Port'],
+		    ['Monika', 'monika', 'The Coder of Android Port', 'https://youtube.com/channel/UCCGro2NXtGFt9SvPLMA3dpg', '91141b'],
+		    ['Confronting Yourself Mod'],
+            ['JotaMR', 'jotamr', 'Art, Coding, Animation and Cover', 'https://twitter.com/jotamr_', '0xFFF3A3A'],
+            ['Rickylonyolo22', 'ricky', 'Charting', 'https://twitter.com/Ricardoriclylon', '0xF7143FF'],
 			['Psych Engine Android Port'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	'0xFFC30085'],
 			['Psych Engine Team'],
